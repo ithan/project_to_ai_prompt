@@ -1,9 +1,10 @@
 # File Structure Documentation Generator
 
-A command-line utility built with Deno that generates comprehensive documentation of your project's file structure and contents, similar to the Windows 'tree /F' command but with additional features.
+A command-line utility built with Deno that generates comprehensive documentation of your project's file structure and contents, similar to the Windows 'tree /F' command but with additional features. This tool is specifically designed to help developers share their projects with AI assistants by creating a single, well-structured document containing both the project structure and file contents in an easy-to-process format.
 
 ## Features
 
+- Optimized for sharing codebases with AI assistants
 - Generate visual tree representation of directory structures
 - Include file contents in the documentation
 - Configurable file extension filtering
